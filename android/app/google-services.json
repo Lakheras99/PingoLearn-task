@@ -29,6 +29,13 @@
             {
               "client_id": "972679258794-0rtsouic2rnnk0j556ovutclo9dgab6a.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "972679258794-tvt97vgqdknafgqfnhuoks0khmq5hrdg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pingolearn"
+              }
             }
           ]
         }
